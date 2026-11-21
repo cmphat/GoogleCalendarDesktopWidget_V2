@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Custom Chrome/Edge profile data if generated locally
+google_profile/
+
+# Logs
+*.log
+
+# Editor directories
+.vscode/
+.idea/

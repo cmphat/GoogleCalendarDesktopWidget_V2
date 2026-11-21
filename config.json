@@ -1,0 +1,8 @@
+{
+  "hotkey": "Ctrl+Alt+C",
+  "browser": "auto",
+  "autostart": true,
+  "open_on_boot": false,
+  "use_custom_profile": false,
+  "calendar_url": "https://calendar.google.com"
+}
